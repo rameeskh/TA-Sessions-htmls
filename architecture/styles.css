@@ -1,0 +1,38 @@
+body{
+    background-color: #CBD4CE;
+}
+.container{
+    /* text-align: center;  */
+    margin: auto;
+}
+.first_section{
+/* text-align: center; */
+margin:auto;
+position: relative;
+left: 450px;
+}
+.mid_section{
+    width: 800px;
+}
+.unit5{
+    width: 400px;
+    
+}
+.mid_section{
+    margin: auto;
+}
+.objective{
+    width: 300px;
+}
+.green{
+    width: 200px;
+}
+/* .house{
+    width: 50px;
+} */
+.greenFloor{
+    font-size: large;
+}
+.houseplans{
+    font-size: large;
+}
